@@ -77,8 +77,8 @@ Service Slot Countdown: Countdown timer for upcoming bookings.
 1. 🔄 Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/car-wash-booking-system.git
-cd car-wash-booking-system
+git clone https://github.com/JobaerAbdi/Car-Wash-Booking-System-Client
+cd Car-Wash-Booking-System-Client
 ```
 
 2. 📦 Install Dependencies:
@@ -129,5 +129,3 @@ API_KEY=your_api_key_here
 4. Complete backend integration.
 5. Clean, well-organized, and documented code.
 6. Creative solutions to integration challenges.
-
-## Made with ❤️ by [KAMRUL](https://github.com/Kamrulthedev)
